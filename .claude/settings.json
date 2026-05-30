@@ -2,7 +2,7 @@
   "mcpServers": {
     "zapier": {
       "type": "sse",
-      "url": "YOUR_ZAPIER_MCP_URL_HERE"
+      "url": "https://mcp.zapier.com/api/v1/connect"
     }
   }
 }
